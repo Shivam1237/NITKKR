@@ -124,8 +124,8 @@ npm run dev
 
 **Shivam Prajapati**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: [https://github.com/your-username](https://github.com/Shivam1237)
+* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shivam-prajapati-5331722b2/)
 
 ---
 
